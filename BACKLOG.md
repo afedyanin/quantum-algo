@@ -1,3 +1,9 @@
+# 2025-01-26
+
+- [Azure Quantum Development Kit](https://github.com/microsoft/qsharp#readme)
+- [Q# tutorial](https://learn.microsoft.com/en-us/azure/quantum/tutorial-qdk-quantum-random-number-generator?tabs=tabid-copilot)
+
+
 # 2025-01-24
 
 ## МГУ Центр квантовых технологий
