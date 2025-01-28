@@ -1,3 +1,27 @@
+# 2025-01-27
+
+## Q# Samples
+
+- [GitHub](https://github.com/microsoft/qsharp/tree/main/samples)
+- [Awesome Q#](https://github.com/ebraminio/awesome-qsharp)
+
+## Quantum python libs
+
+### Cirq
+
+- [Docs](https://quantumai.google/cirq)
+- [GitHub](https://github.com/quantumlib/cirq)
+
+### QuTiP
+
+- [QuTiP: Quantum Toolbox in Python](https://github.com/qutip/qutip)
+- [GitHub](https://qutip.org/)
+
+### CUDA Quantum
+
+- [CUDA Quantum in Python](https://nvidia.github.io/cuda-quantum/0.6.0/using/python.html)
+- [GitHub](https://github.com/NVIDIA/cuda-quantum)
+
 # 2025-01-26
 
 - [Azure Quantum Development Kit](https://github.com/microsoft/qsharp#readme)
