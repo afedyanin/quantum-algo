@@ -17,7 +17,11 @@
         H(q);
         // It now has a 50% chance of being measured 0 or 1.
         // Measure the qubit value.
-        return M(q);
+        let result = M(q);
+        // Reset the qubit before releasing it.
+        Reset(q);
+        // Return the result of the measurement.
+        return result;
     }
 
     operation SampleRandomNumberInRange(max : Int) : Int {
