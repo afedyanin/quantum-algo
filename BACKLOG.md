@@ -1,4 +1,12 @@
-# 2025-01-27
+# 2025-01-29
+
+## ToDo
+
+- random bit
+- bell state
+- pauli
+
+# 2025-01-28
 
 ## Q# Samples
 
