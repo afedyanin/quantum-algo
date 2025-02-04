@@ -1,3 +1,13 @@
+# 2025-02-04
+
+## QuTiP
+
+- [qtip book](https://github.com/afedyanin/qutip-book)
+- [QuTiP: An open-source Python framework for the dynamics of open quantum systems](https://arxiv.org/abs/1110.0573)
+- [docs](https://qutip.readthedocs.io/en/latest/)
+- [QuTiP Lectures as IPython notebooks](https://github.com/jrjohansson/qutip-lectures)
+
+
 # 2025-01-29
 
 ## ToDo
