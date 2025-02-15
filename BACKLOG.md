@@ -1,10 +1,11 @@
 # 2025-02-16
 
 - [Сфера Блоха для бройлеров](https://habr.com/ru/articles/569996/)
+- [Three.js, квантовый спин, сфера Блоха и квантовые вращения](https://habr.com/ru/articles/687330/)
 - [Еще раз о сфере Блоха и, возможно, ее неправильном изображении в википедии, некоторых сайтах, книгах и статьях](https://habr.com/ru/articles/696966/)
 - [Сфера   Блоха - Римана - Пуанкаре](https://vlad0007.github.io/QuantumSpin/Chapter5/Chapter5.html)
 - [Лекция 3. Сфера Блоха](https://teach-in.ru/lecture/2022-02-24-Antipin)
-
+- [Визуализация квантового спина](https://vlad0007.github.io/QuantumSpin/)
 
 # 2025-02-15
 
