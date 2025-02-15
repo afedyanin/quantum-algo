@@ -3,7 +3,14 @@
 ## Квантовый компьютер своими руками
 
 - [Квантовые эксперименты на дому. Строим квантовый компьютер из лазера и полимеров](https://habr.com/ru/articles/836730/)
-
+- [Интерферометр из спичек и желудей](https://pikabu.ru/story/interferometr_iz_spichek_i_zheludey_8326952)
+- [Самодельный Фурье-спектрометр](https://habr.com/ru/articles/253947/)
+- [Лазерный интерференционный микрометр из подручных материалов](https://mysku.club/blog/diy/66515.html)
+- [Как самому сделать интерферометр Фабри–Перо](https://dzen.ru/a/ZdywP_msyBRt4r9y)
+- [Интерферометр своими руками.](https://dzen.ru/a/ZfLW9mqlQk6NO3gZ)
+- [Cell Phone Spectrophotometer](https://www.asdlib.org/onlineArticles/elabware/Scheeline_Kelly_Spectrophotometer/index.html)
+- [Указка-тоже лазер](http://roboforum.ru/forum10/topic3710.html)
+- [Спектрометр из светодиодов на основе Arduino](https://arduinoplus.ru/arduino-spektrometr/)
 
 # 2025-02-04
 
