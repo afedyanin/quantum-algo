@@ -5,12 +5,25 @@ namespace SingleQubit {
 
     @EntryPoint()
     operation PauliGatesUsage() : Unit {
-        // This allocates a qubit for us to work with.
+
         use q = Qubit();
+
+        Message("|0> state:");
         DumpMachine();
 
         X(q);
+        Message("X Gate:");
         DumpMachine();
+
+        Z(q);
+        Message("Z Gate:");
+        DumpMachine();
+
+        Reset(q);
+
+        Y(q);
+        Message("Y Gate:");
+        DumpMachine();        
 
         Reset(q);
     }
