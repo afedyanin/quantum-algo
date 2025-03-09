@@ -24,6 +24,8 @@ namespace SingleQubit {
         Y(q);
         Message("Y Gate:");
         DumpMachine();        
+        let result = M(q);
+        Message($"Y Gate: {result}");
 
         Reset(q);
     }

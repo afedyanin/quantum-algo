@@ -1,3 +1,17 @@
+# 2025-03-09
+
+- [Механический квантовый компьютер](https://habr.com/ru/articles/816741/)
+- [Quantum Entanglement and Quantum Computational Algorithms](https://arxiv.org/pdf/quant-ph/0012116)
+- [Multi-photon entanglement and interferometry](https://arxiv.org/pdf/0805.2853)
+- [The one clean qubit model without entanglement is classically simulable](https://arxiv.org/pdf/1907.08224)
+- [One Clean Qubit](https://en.wikipedia.org/wiki/One_Clean_Qubit)
+- [Quantum computing with mixed states](https://www.arxiv.org/abs/1101.3275)
+- [Deutsch-Jozsa algorithm - an interactive optical implementation](https://www.reddit.com/r/QuantumComputing/comments/mdvuwj/deutschjozsa_algorithm_an_interactive_optical/?rdt=38805)
+- [No-code IDE for Quantum Computing](https://quantumflytrap.com/)
+- [Deutsch-Jozsa in many worlds](https://lab.quantumflytrap.com/u/PiotrMigdal/Z31eYC_RQQ-NrX3l2Z9HoQ?mode=waves)
+
+
+
 # 2025-02-16
 
 - [Сфера Блоха для бройлеров](https://habr.com/ru/articles/569996/)
@@ -6,6 +20,8 @@
 - [Сфера   Блоха - Римана - Пуанкаре](https://vlad0007.github.io/QuantumSpin/Chapter5/Chapter5.html)
 - [Лекция 3. Сфера Блоха](https://teach-in.ru/lecture/2022-02-24-Antipin)
 - [Визуализация квантового спина](https://vlad0007.github.io/QuantumSpin/)
+- [Что не так с изображением сферы Блоха в википедии, на многих сайтах и статьях](https://habr.com/ru/articles/689164/)
+
 
 # 2025-02-15
 
