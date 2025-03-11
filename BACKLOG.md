@@ -2,6 +2,7 @@
 
 - [Механический квантовый компьютер](https://habr.com/ru/articles/816741/)
 - [Quantum Entanglement and Quantum Computational Algorithms](https://arxiv.org/pdf/quant-ph/0012116)
+- [The Deutsch-Jozsa Problem: De-quantisation and Entanglement](https://arxiv.org/pdf/0910.1990)
 - [Multi-photon entanglement and interferometry](https://arxiv.org/pdf/0805.2853)
 - [The one clean qubit model without entanglement is classically simulable](https://arxiv.org/pdf/1907.08224)
 - [One Clean Qubit](https://en.wikipedia.org/wiki/One_Clean_Qubit)
@@ -9,8 +10,17 @@
 - [Deutsch-Jozsa algorithm - an interactive optical implementation](https://www.reddit.com/r/QuantumComputing/comments/mdvuwj/deutschjozsa_algorithm_an_interactive_optical/?rdt=38805)
 - [No-code IDE for Quantum Computing](https://quantumflytrap.com/)
 - [Deutsch-Jozsa in many worlds](https://lab.quantumflytrap.com/u/PiotrMigdal/Z31eYC_RQQ-NrX3l2Z9HoQ?mode=waves)
+- [Implementation of Shor’s algorithm with a single photon in 32 dimensions](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.22.034003)
+- [«Квантовая» диаграма Виенна: как нас дурит научпоп](https://habr.com/ru/articles/783382/)
+- [Почему квантовая механика – это теория физики Мультивселенной](https://habr.com/ru/articles/820549/)
+- [KLM protocol](https://en.wikipedia.org/wiki/KLM_protocol)
+- [Looking Glass Universe](https://youtu.be/tHfGucHtLqo?si=f9SzGGou5lWyBk7I)
+- [What can my homemade quantum computer do?](https://www.youtube.com/watch?v=tHfGucHtLqo)
+- [I made a (useless) quantum computer at home](https://www.youtube.com/watch?v=muoIG732fQA)
 
 
+
+автор сам пишет, что никакого отношения к квантовым вычисления его эксперимент не имеет. Свойства интерференции полезны как минимум в вычисления 2-х мерных сверток при помощи оптического Фурье процессора. Было бы не плохо продолжить работы именно в этой области для ускорения расчетов нейронных сетей. Перед линзами можно ставить экраны полупрозрачных дисплеев и выводить на них заранее рассчитанные матрицы трансформации. ПЗС матрица примет результат расчетов. Удачи !
 
 # 2025-02-16
 
