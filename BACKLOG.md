@@ -1,3 +1,10 @@
+# 2025-03-21
+
+- [Designing a Hybrid Digital / Analog Quantum Physics Emulator as Open Hardware](https://arxiv.org/abs/2302.00821)
+- [The Analog Thing ](https://the-analog-thing.org/wiki/Simulation)
+- [PyAnalog](https://github.com/anabrid/pyanalog)
+
+
 # 2025-03-09
 
 - [Механический квантовый компьютер](https://habr.com/ru/articles/816741/)
