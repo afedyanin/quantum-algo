@@ -1,3 +1,8 @@
+# 2025-03-22
+
+- [Основные компоненты интерферометра Маха-Цендера](https://sphotonics.ru/catalog/uchebnye-nabory-po-interferometrii/omoymh01/)
+- [Бесконтактные и слабые измерения, контрфактические вычисления и контрпортация](https://habr.com/ru/articles/766502/)
+
 # 2025-03-21
 
 - [Designing a Hybrid Digital / Analog Quantum Physics Emulator as Open Hardware](https://arxiv.org/abs/2302.00821)
